@@ -10,5 +10,7 @@
 
 // var_dump([1,2,3,4]);
 
-require "11_manipulacao_arrays.php"
+require_once "site\includes\footer.php"
+
+
 ?>
