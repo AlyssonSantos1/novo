@@ -7,11 +7,23 @@
 </head>
 
 <body>
+    <?php
+
+        // include_once('includes/header.php')
+
+    ?>
     <div>
         <?php
             echo "Bem vindos"
         ?>
     </div>
+
+    <?php
+
+        // include_once('includes/footer.php')
+        require('includes/header.php')
+
+    ?>
 
 
     

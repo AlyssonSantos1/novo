@@ -10,7 +10,9 @@
 
 // var_dump([1,2,3,4]);
 
-require_once "site\includes\footer.php"
+// require_once 'site' . DIRECTORY_SEPARATOR . 'includes' . DIRECTORY_SEPARATOR . 'header.php';
+
+require_once "site/index.php"
 
 
 ?>
