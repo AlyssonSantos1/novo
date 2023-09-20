@@ -12,7 +12,9 @@
 
 // require_once 'site' . DIRECTORY_SEPARATOR . 'includes' . DIRECTORY_SEPARATOR . 'header.php';
 
-require_once "site/index.php"
+// require_once "site/index.php"
+
+    require_once "14_operadores_condicionais.php"
 
 
 ?>
