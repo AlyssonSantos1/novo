@@ -1,6 +1,6 @@
-<?php
+<!-- <?php
 
-$numero = 16;
+// $numero = 16;
 
 
 //  if($numero == 12){
@@ -38,18 +38,15 @@ $numero = 16;
 //     echo " É maior";
 // };
 
-if($numero == 17)
-    echo 'É desessete';
-elseif($numero == 16) 
-    echo 'É desesseis';
-elseif($numero == 15) 
-    echo 'É quinze';
-else
-    echo 'Nao identificado';
+// if($numero == 17)
+//     echo 'É desessete';
+// elseif($numero == 16) 
+//     echo 'É desesseis';
+// elseif($numero == 15) 
+//     echo 'É quinze';
+// else
+//     echo 'Nao identificado';
                             
+ 
 
-
-    
-
-// && serve tambem para comparar
-    
+// && serve tambem para comparar -->
