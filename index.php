@@ -14,7 +14,7 @@
 
 // require_once "site/index.php"
 
-    require_once "16_switch.php"
+    require_once "22_funcoes.php"
 
 
 ?>
