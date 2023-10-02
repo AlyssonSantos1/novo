@@ -14,7 +14,7 @@
 
 // require_once "site/index.php"
 
-    require_once "25_manipulaçoes_strings.php"
+    require_once "26_funcoesexplode.php"
 
 
 ?>
