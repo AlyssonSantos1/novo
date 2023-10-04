@@ -13,5 +13,5 @@ var_dump($arrayInfo[2]);
 
 echo '<hr>';
 
-
-echo implode($arrayInfo, '#');
+$arrayTeste = ['1','2','3','4','5'];
+echo implode(' # ', $arrayTeste);
