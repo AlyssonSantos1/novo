@@ -14,7 +14,7 @@
 
 // require_once "site/index.php"
 
-    require_once "32_manupulacao_strings.php"
+    require_once "new.php"
 
 
 ?>
