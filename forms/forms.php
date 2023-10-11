@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +13,7 @@
 
     <div class="container">
         <h1>Formulário</h1>
-    <form class="form">
+    <form class="form" action="form.php" method="POST">
         <div class="form-group">
             <input type="text" name="nome" placeholder="Nome:" class="form-control">
         </div>
@@ -27,8 +27,7 @@
         
     <div class="form-group">
         <label>
-            <input type="checkbox" name="Concordo" value="SIM" class="form-control">
-            Concordo
+            <input type="checkbox" name="concordo" value="SIM" class="form-control">
         </label>
     </div>
 
@@ -55,7 +54,8 @@
     </div>
 
     <div class="form-group">
-        <button type="submit" class="btn btn-sucess">Enviar</button>
+        <!-- <button type="submit" class="btn btn-sucess">Enviar</button> -->
+        <input type="submit" value="Enviar"  class="btn btn-sucess">
     </div>
     </form>    
     </div>
