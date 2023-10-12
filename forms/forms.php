@@ -27,7 +27,7 @@
         
     <div class="form-group">
         <label>
-            <input type="checkbox" name="concordo" value="SIM" class="form-control">
+            <input type="checkbox" name="Concordo" value="SIM" class="form-control">Concordo
         </label>
     </div>
 

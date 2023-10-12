@@ -14,7 +14,7 @@
 
 // require_once "site/index.php"
 
-    require_once "/forms/forms.php"
+    require_once "/uploads/uploads.php"
 
 
 ?>
